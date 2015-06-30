@@ -1,15 +1,22 @@
 body{
 	background-color: #00FFD0;
-	background-repeat: repeat-y;
-	background-position:center;
-	background-image: url("https://wwatouralberta.files.wordpress.com/2014/10/wpid-img_13372534482599.jpeg");
+	
+}
+img#alEEEEEEE{
+	
+}
+div{
+	display:inline;
 }
 p {
 	color:#EA00FF;
 }
-p#egg{
+p#onedirection{
 	color:#00FFD0;;
 }
-p.alison{
+img{
+	display:inline;
+}
+p.theflash{
 	color:#00FFD0;;
 }
