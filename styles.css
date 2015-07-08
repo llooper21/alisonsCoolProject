@@ -1,22 +1,3 @@
 body{
-	background-color: #00FFD0;
-	
-}
-img#alEEEEEEE{
-	
-}
-div{
-	display:inline;
-}
-p {
-	color:#EA00FF;
-}
-p#onedirection{
-	color:#00FFD0;;
-}
-img{
-	display:inline;
-}
-p.theflash{
-	color:#00FFD0;;
+	background-image: background.jpg;
 }
