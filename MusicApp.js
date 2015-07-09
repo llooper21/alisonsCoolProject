@@ -1,3 +1,3 @@
 $('#deathcab').click(function(){
-  alert('hello?');
+  $('#dcsound').play();
 });
