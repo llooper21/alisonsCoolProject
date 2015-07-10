@@ -1,3 +1,4 @@
 $('#deathcab').click(function(){
-  $('#dcsound').play();
+  alert('test');
+  $('#dcsound').get(0).play();
 });
