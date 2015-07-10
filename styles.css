@@ -1,9 +1,14 @@
 body{
 	background-image: "background.jpg";
 }
+
 button#DeathCab{
 	width:100px;
 	height:100px;
+}
+
+p{
+	color: #fff;
 }
 
 
